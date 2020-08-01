@@ -1,5 +1,6 @@
 # MyFirstAndroidProject
-It is a my first assignment for android development.
+It is my first assignment for android development. The main purpose of this app is to convert km to miles and vice-versa. 
+It can handle wrong input format like alphabtes or empty strings.
 
 For full source code I have uploaded ConvertMilesToKm.zip file.
 
